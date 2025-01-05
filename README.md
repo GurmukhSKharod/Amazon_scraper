@@ -16,7 +16,7 @@
 
 ## Overview 
 
-This is a simple index.html file that utilizes React.js and an amazon scraper API to filter through different information on the official Amazon website.  
+This is a project that utilizes React.js and an amazon scraper API to filter through different information on the official Amazon website.  
 We can perform these actions:  
 1. GET Product Details  
 2. GET Product Reviews  
